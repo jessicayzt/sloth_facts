@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <integer-array name="sloth_facts_images">
+            <item>@drawable/a0</item>
+            <item>@drawable/a1</item>
+            <item>@drawable/a2</item>
+            <item>@drawable/a3</item>
+            <item>@drawable/a4</item>
+            <item>@drawable/a5</item>
+            <item>@drawable/a6</item>
+            <item>@drawable/a7</item>
+            <item>@drawable/a8</item>
+            <item>@drawable/a9</item>
+            <item>@drawable/a10</item>
+            <item>@drawable/a11</item>
+            <item>@drawable/a12</item>
+            <item>@drawable/a13</item>
+            <item>@drawable/a14</item>
+            <item>@drawable/a15</item>
+            <item>@drawable/a16</item>
+            <item>@drawable/a17</item>
+            <item>@drawable/a18</item>
+            <item>@drawable/a19</item>
+            <item>@drawable/a20</item>
+            <item>@drawable/a21</item>
+            <item>@drawable/a22</item>
+            <item>@drawable/a23</item>
+            <item>@drawable/a24</item>
+            <item>@drawable/a25</item>
+            <item>@drawable/a26</item>
+            <item>@drawable/a27</item>
+            <item>@drawable/a28</item>
+            <item>@drawable/a29</item>
+            <item>@drawable/a30</item>
+            <item>@drawable/a31</item>
+            <item>@drawable/a32</item>
+            <item>@drawable/a33</item>
+            <item>@drawable/a34</item>
+            <item>@drawable/a35</item>
+            <item>@drawable/a36</item>
+        </integer-array>
+</resources>
